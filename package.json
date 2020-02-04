@@ -1,5 +1,5 @@
 {
-  "name": "fast-fuzzy",
+  "name": "@parkingboss/fast-fuzzy",
   "version": "1.9.1",
   "description": "Fast and tiny fuzzy-search utility",
   "main": "lib/fuzzy.cjs.js",
@@ -25,12 +25,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EthanRutherford/fast-fuzzy.git"
+    "url": "git+https://github.com/parkingboss/fast-fuzzy.git"
   },
   "bugs": {
-    "url": "https://github.com/EthanRutherford/fast-fuzzy/issues"
+    "url": "https://github.com/parkingboss/fast-fuzzy/issues"
   },
-  "homepage": "https://github.com/EthanRutherford/fast-fuzzy#readme",
+  "homepage": "https://github.com/parkingboss/fast-fuzzy#readme",
   "devDependencies": {
     "@babel/core": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
